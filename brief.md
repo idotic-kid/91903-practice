@@ -30,7 +30,10 @@ The website aims to:
  * Links to game development communities (e.g., forums, Discord servers).
  * Encouragement to start building a simple game with suggested tutorials.
 ## Design Considerations
+
 🎨 Modern and visually appealing design with game-related imagery.
+
 🕹️ User-friendly navigation for easy access to information.
+
 
 This website will serve as a beginner-friendly entry point for students and aspiring developers, helping them take their first steps into the exciting world of game development.
