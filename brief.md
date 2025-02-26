@@ -14,17 +14,17 @@ The website aims to:
 ✅ Provide useful resources, tools, and tutorials.
 ✅ Inspire users to start their own game development projects.
 ## Page Structure & Content
-* Home Page (Introduction to Game Development)
+1. Home Page (Introduction to Game Development)
  * A visually appealing landing page with a brief introduction to game development.
  * An engaging header image related to game design.
  * A short section outlining why game development is exciting.
  * A call-to-action (CTA) encouraging users to explore more.
-*  Game Development Basics Page
+2.  Game Development Basics Page
  * Introduction to key game development concepts (e.g., game engines, programming languages, assets).
  * Overview of popular game engines (e.g., Unity, Unreal Engine, Godot).
  * A section on game design principles (e.g., mechanics, storytelling, player experience).
  * Links to beginner-friendly tutorials.
-* Resources & Next Steps Page
+3. Resources & Next Steps Page
  * A list of free and paid resources, including courses, tools, and communities.
  * Recommendations for beginner-friendly projects to try.
  * Links to game development communities (e.g., forums, Discord servers).
