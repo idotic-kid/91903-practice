@@ -1,11 +1,28 @@
 body{
     font-family: calibri;
     background-color: #123;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+header{
+    background-color: #123;
+    flex-direction: column;
+    align-items: center;
 }
 
 header nav{
     display: flex;
-    background-color: aquamarine;
+    width: 100%;
+    justify-content: right;
+    background-color: #720a0a;
+}
+
+header img{
+    margin: 10px;
+    height: 50px;
 }
 
 .navitem{
@@ -13,8 +30,9 @@ header nav{
     transition: 0.2s;
 }
 
-h1{
+.navitem a{
     color: #fff;
+    text-decoration: none;
 }
 
 .navitem:hover{
@@ -22,16 +40,14 @@ h1{
 }
 
 .hero{
-    width: 100%
+    overflow: hidden;
+}
+
+.hero h1{
+    z-index: 10;
 }
 
 .hero img{
     width: 100%;
-    opacity: 0.3;
-}
-
-.hero h1{
-    text-align: right;
-    margin-top: -150px;
-    font-size: 100px;
+    z-index: 4;
 }

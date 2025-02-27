@@ -10,8 +10,8 @@ This project involves designing and developing a three-page website on the theme
 * Teachers or mentors looking for resources for students.
 ## Purpose of the Website
 The website aims to:
-✅ Introduce users to computer game development.
-✅ Provide useful resources, tools, and tutorials.
+✅ Introduce users to computer game development.\
+✅ Provide useful resources, tools, and tutorials.\
 ✅ Inspire users to start their own game development projects.
 ## Page Structure & Content
 1. Home Page (Introduction to Game Development)
