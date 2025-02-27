@@ -1,0 +1,37 @@
+body{
+    font-family: calibri;
+    background-color: #123;
+}
+
+header nav{
+    display: flex;
+    background-color: aquamarine;
+}
+
+.navitem{
+    padding: 10px;
+    transition: 0.2s;
+}
+
+h1{
+    color: #fff;
+}
+
+.navitem:hover{
+    background-color:chocolate;
+}
+
+.hero{
+    width: 100%
+}
+
+.hero img{
+    width: 100%;
+    opacity: 0.3;
+}
+
+.hero h1{
+    text-align: right;
+    margin-top: -150px;
+    font-size: 100px;
+}
